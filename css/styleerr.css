@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #1a1a2e;
+    color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.cadre {
+    
+
+    margin-left: 20px;
+    padding: 3rem;
+    background: #2a2a3d;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #bbb;
+    box-sizing: border-box;
+}
+
+.errNumber {
+    font-size: 10rem;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.errMEssage {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #4ecdc4;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .cadre {
+        padding: 5rem;
+        margin: 10px;
+    }
+
+    .errNumber {
+        font-size: 2rem;
+    }
+
+    .errMEssage {
+        font-size: 1rem;
+    }
+}
