@@ -13,7 +13,9 @@ This project focuses on delivering an intuitive and responsive user interface us
 
 ## Members
 - nabil chakroune
+- https://github.com/nchakrou
 - younesse amazzal
+- https://github.com/YounsseAmazzal
 - Fatima Aaziz
 
 ## 🛠 How to Run
